@@ -3,7 +3,7 @@
 > A full-stack SaaS platform for serious traders — built with Next.js, TradingView Lightweight Charts, and real market data.
 
 🌐 **Live**: [elotrades.com](https://elotrades.com)
-
+![EloTrades Preview](preview.png)
 ---
 
 ## Overview
